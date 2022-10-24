@@ -2,4 +2,3 @@
 
 Simple Javascript Calculator✌️.
 
-📖After learning Javascript basics I have Bulit this calculator📖.
