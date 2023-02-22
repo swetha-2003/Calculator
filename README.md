@@ -1,4 +1,4 @@
 "Every day is a learning day🏫🏫"......
 
-Simple Javascript Calculator✌️.
+Simple Calculator using C language✌️.
 
